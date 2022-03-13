@@ -1,0 +1,11 @@
+RCS	
+CVS	
+Subversion	
+Aegis	
+Monotone	
+Git 	
+Mercurial	
+Bazaar	
+Arch	
+Perforce	
+Team Foundation Server
